@@ -1,0 +1,1 @@
+{"virtualbox":{"vagrant":{"id":"vagrant","nfs":false,"mount_options":["dmode=777","fmode=666"],"guestpath":"/vagrant","hostpath":"/home/flavio/api","disabled":false}}}
